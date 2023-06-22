@@ -11,7 +11,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1b2a41] text-[#ffffffb4]">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1b2a41] text-[#ffffffd6]">
       <div>
         <img src={Logo} alt="" style={{ width: "50px" }} />
       </div>

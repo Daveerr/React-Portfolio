@@ -22,6 +22,11 @@ export const Homepage = () => {
           Im a full-stack web developer who loves building websites from the
           ground up.{" "}
         </p>
+        <div>
+          <button className="border-2 text-white px-6 py-3 my-2 hover:bg-[#a05af6] hover:border-[#a05af6]">
+            My Work
+          </button>
+        </div>
       </div>
     </div>
   );

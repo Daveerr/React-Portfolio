@@ -11,7 +11,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1b2a41] text-[#ffffffd6]">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0c131d] text-[#ffffffd6]">
       <div>
         <img src={Logo} alt="" style={{ width: "50px" }} />
       </div>
@@ -34,7 +34,7 @@ export const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#1b2a41] flex flex-col justify-center items-center"
+            : "absolute top-0 left-0 w-full h-screen bg-[#0c131d] flex flex-col justify-center items-center"
         }
       >
         <li className="py-6 text text-4xl">About Me</li>

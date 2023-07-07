@@ -24,7 +24,7 @@ export const work = () => {
                 Workday Scheduler
               </p>
               <a href="/">
-                <button className="bg-[#bdb2ff] border-2 text-black">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
                   Demo
                 </button>
               </a>

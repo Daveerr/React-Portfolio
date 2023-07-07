@@ -1,6 +1,5 @@
 import React from "react";
 import workday from "../assets/work-dayscreen.png";
-import readme from "../assets/readme-gen.png";
 
 export const work = () => {
   return (
@@ -15,15 +14,21 @@ export const work = () => {
           </p>
         </div>
 
-        <div
-          style={{ backgroundImage: `url(${workday})` }}
-          className="grid sm:grid-cols-2 md:grid-cols-3 gap-4"
-        >
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div
             style={{ backgroundImage: `url(${workday})` }}
             className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <button className="text-[#bdb2ff] bo">View</button>
+            <div className="pt-8 text-center opacity-0 group-hover:opacity-100">
+              <p className="text-2xl font-bold tracking-wider text-black">
+                Workday Scheduler
+              </p>
+              <a href="/">
+                <button className="bg-[#bdb2ff] border-2 text-black">
+                  Demo
+                </button>
+              </a>
+            </div>
           </div>
         </div>
       </div>

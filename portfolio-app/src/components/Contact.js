@@ -15,7 +15,7 @@ const contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-[#bdb2ff] text-[#ffffffd6]">
             Contact Me
           </p>
-          <p className="text-[#ffffffd6] py-4">
+          <p className="text-[#ffffffd6] py-4 text-3xl">
             Fill out form below or email me -- Daviderrr10@gmail.com
           </p>
         </div>

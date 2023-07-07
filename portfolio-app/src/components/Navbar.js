@@ -19,7 +19,7 @@ export const Navbar = () => {
       <div>
         <ul className="hidden md:flex">
           <li>About Me</li>
-          <li>Portfolio</li>
+          <li>Work</li>
           <li>Contact Me</li>
           <li>Skills</li>
         </ul>
@@ -38,15 +38,15 @@ export const Navbar = () => {
         }
       >
         <li className="py-6 text text-4xl">About Me</li>
-        <li className="py-6 text text-4xl">Portfolio</li>
+        <li className="py-6 text text-4xl">Work</li>
         <li className="py-6 text text-4xl">Contact Me</li>
         <li className="py-6 text text-4xl">Skills</li>
       </ul>
 
       {/* icons for contact */}
-      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
+      <div className=" hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#3a9bdc]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#3f5eb3]">
             <a
               className="flex justify-between items-center w-full text-grey"
               href="/"

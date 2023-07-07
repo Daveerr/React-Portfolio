@@ -1,5 +1,8 @@
 import React from "react";
 import workday from "../assets/work-dayscreen.png";
+import brick from "../assets/brick-that.png";
+import calorie from "../assets/calorie-tracker.png";
+import converse from "../assets/converse.png";
 
 export const work = () => {
   return (
@@ -13,15 +16,63 @@ export const work = () => {
             Work
           </p>
         </div>
-
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div
             style={{ backgroundImage: `url(${workday})` }}
             className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="pt-8 text-center opacity-0 group-hover:opacity-100">
+            <div className="text-center opacity-0 group-hover:opacity-100">
               <p className="text-2xl font-bold tracking-wider text-black">
                 Workday Scheduler
+              </p>
+              <a href="/">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
+                  Demo
+                </button>
+              </a>
+            </div>
+          </div>
+
+          <div
+            style={{ backgroundImage: `url(${brick})` }}
+            className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="text-center opacity-0 group-hover:opacity-100">
+              <p className="text-2xl font-bold tracking-wider text-black">
+                Brick That
+              </p>
+              <a href="/">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
+                  Demo
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+          <div
+            style={{ backgroundImage: `url(${calorie})` }}
+            className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="text-center opacity-0 group-hover:opacity-100">
+              <p className="text-2xl font-bold tracking-wider text-black">
+                Calorie Tracker
+              </p>
+              <a href="/">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
+                  Demo
+                </button>
+              </a>
+            </div>
+          </div>
+
+          <div
+            style={{ backgroundImage: `url(${converse})` }}
+            className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="text-center opacity-0 group-hover:opacity-100">
+              <p className="text-2xl font-bold tracking-wider text-black">
+                HTML/CSS
               </p>
               <a href="/">
                 <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">

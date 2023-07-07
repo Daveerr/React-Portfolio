@@ -15,6 +15,3 @@
   background-position: center;
   height: 250px;
 }
-.conternt-div:hover {
-  background-image: linear-gradient(to right);
-}

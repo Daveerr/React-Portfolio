@@ -28,9 +28,17 @@ export const work = () => {
               <a href="https://daveerr.github.io/work-day-scheduler/">
                 <button
                   link=""
-                  className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black"
+                  className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black mb-2"
                 >
                   Demo
+                </button>
+              </a>
+              <a href="https://github.com/Daveerr/work-day-scheduler">
+                <button
+                  link=""
+                  className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black ml-2"
+                >
+                  Source
                 </button>
               </a>
             </div>
@@ -41,12 +49,17 @@ export const work = () => {
             className="shadow-sm shadow-gray-200 group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             <div className="text-center opacity-0 group-hover:opacity-100">
-              <p className="text-2xl font-bold tracking-wider text-black">
+              <p className="text-2xl font-bold tracking-wider text-white">
                 Brick That
               </p>
               <a href="https://brick-that.herokuapp.com/">
-                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black mb-2">
                   Demo
+                </button>
+              </a>
+              <a href="https://github.com/brandta-1/Brick-That">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black ml-2">
+                  Source
                 </button>
               </a>
             </div>
@@ -62,8 +75,13 @@ export const work = () => {
                 Calorie Tracker
               </p>
               <a href="https://gabrielaortiz6.github.io/calorie-tracker/">
-                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black mb-2">
                   Demo
+                </button>
+              </a>
+              <a href="https://github.com/gabrielaortiz6/calorie-tracker">
+                <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black ml-2">
+                  Source
                 </button>
               </a>
             </div>

@@ -20,8 +20,8 @@ const about = () => {
           </p>
           <p className="text-[#bdb2ff] py-8 text-3xl ">
             {" "}
-            When I'm not glued to my computer, you'll likely find me either at
-            the gym or taking my dog for a walk.
+            When I'm not glued to my computer, you'll likely find me at the gym
+            or taking my dog for a walk.
           </p>
           <div className="text-[#bdb2ff] ">
             <img

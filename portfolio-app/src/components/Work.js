@@ -25,7 +25,7 @@ export const work = () => {
               <p className="text-2xl font-bold tracking-wider text-black">
                 Workday Scheduler
               </p>
-              <a href="/">
+              <a href="https://daveerr.github.io/work-day-scheduler/">
                 <button
                   link=""
                   className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black"
@@ -44,7 +44,7 @@ export const work = () => {
               <p className="text-2xl font-bold tracking-wider text-black">
                 Brick That
               </p>
-              <a href="/">
+              <a href="https://brick-that.herokuapp.com/">
                 <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
                   Demo
                 </button>
@@ -61,7 +61,7 @@ export const work = () => {
               <p className="text-2xl font-bold tracking-wider text-black">
                 Calorie Tracker
               </p>
-              <a href="/">
+              <a href="https://gabrielaortiz6.github.io/calorie-tracker/">
                 <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
                   Demo
                 </button>
@@ -77,7 +77,7 @@ export const work = () => {
               <p className="text-2xl font-bold tracking-wider text-black">
                 HTML/CSS
               </p>
-              <a href="/">
+              <a href="https:/codepen.io/Daverrr/pen/xxWmejr">
                 <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">
                   Demo
                 </button>

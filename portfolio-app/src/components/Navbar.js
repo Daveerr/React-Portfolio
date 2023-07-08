@@ -1,7 +1,12 @@
 import React, { useState } from "react";
 import Logo from "../assets/logo.png";
-import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
+import {
+  FaBars,
+  FaTimes,
+  FaGithub,
+  FaLinkedin,
+  FaCodepen,
+} from "react-icons/fa";
 import { Link } from "react-scroll";
 
 export const Navbar = () => {
@@ -130,9 +135,9 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#a3b18a]">
             <a
               className="flex justify-between items-center w-full text-grey"
-              href="/"
+              href="https://codepen.io/your-work"
             >
-              Email <HiOutlineMail size={30} />
+              Codepen <FaCodepen size={30} />
             </a>
           </li>
         </ul>

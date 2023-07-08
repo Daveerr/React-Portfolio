@@ -114,7 +114,7 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#3f5eb3]">
             <a
               className="flex justify-between items-center w-full text-grey"
-              href="/"
+              href="https://www.linkedin.com/in/david-rodriguez-b2538a247"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -122,7 +122,7 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#545454]">
             <a
               className="flex justify-between items-center w-full text-grey"
-              href="/"
+              href="https://www.github.com/Daveerr"
             >
               Github <FaGithub size={30} />
             </a>

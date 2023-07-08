@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-scroll";
 
 export const Homepage = () => {
   return (
@@ -23,9 +24,11 @@ export const Homepage = () => {
           ground up.{" "}
         </p>
         <div>
-          <button className="border-2 text-white px-6 py-3 my-2 hover:bg-[#bdb2ff] hover:border-[#bdb2ff] hover:text-black">
-            My Work
-          </button>
+          <Link to="work" smooth={true} duration={500}>
+            <button className="border-2 text-white px-6 py-3 my-2 hover:bg-[#bdb2ff] hover:border-[#bdb2ff] hover:text-black">
+              My Work
+            </button>
+          </Link>
         </div>
       </div>
     </div>

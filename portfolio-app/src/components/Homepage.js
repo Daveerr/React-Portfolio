@@ -2,7 +2,7 @@ import React from "react";
 
 export const Homepage = () => {
   return (
-    <div className="w-full h-screen flex[35%] bg-[#0c131d]">
+    <div name="home" className="w-full h-screen flex[35%] bg-[#0c131d]">
       {/*container bio*/}
       <div className="max-w-[1000px] justify-center mx-auto px-8 flex flex-col h-full">
         <p className="text-[#f0f7ee] text-xl">Hi, my name is</p>

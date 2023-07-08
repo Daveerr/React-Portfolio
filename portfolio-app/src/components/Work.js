@@ -93,7 +93,7 @@ export const work = () => {
           >
             <div className="text-center opacity-0 group-hover:opacity-100">
               <p className="text-2xl font-bold tracking-wider text-black">
-                HTML/CSS
+                Codepen
               </p>
               <a href="https:/codepen.io/Daverrr/pen/xxWmejr">
                 <button className="bg-[#bdb2ff] text-center rounded-lg px-4 py-3 text-black">

@@ -28,7 +28,7 @@ const about = () => {
               className="shadow-xl shadow-slate-700  border-4 border-gray-800"
               src={dave}
               alt=""
-              style={{ width: "400px" }}
+              style={{ width: "450px" }}
             />
           </div>
         </div>

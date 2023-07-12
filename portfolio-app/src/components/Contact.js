@@ -28,10 +28,11 @@ const contact = () => {
         ></input>
         <input
           className="text-black my-4 p-2 bg-[#ffffffd6]"
-          type="text"
+          type="email"
           placeholder="Email"
           name="email"
-          required // Needs to have input
+          required={true} // Needs to have input
+          pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" //  email validation
         ></input>
         <textarea
           className="text-black bg-[#ffffffd6] p-2"

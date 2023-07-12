@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.5d32ff85.css",
+    "main.js": "/portfolio-app/static/js/main.e1944d63.js",
+    "static/media/davepic.jpeg": "/portfolio-app/static/media/davepic.1a3eb317a3f864f4afde.jpeg",
+    "static/media/converse.png": "/portfolio-app/static/media/converse.7c1c29a6b42f46932276.png",
+    "static/media/brick-that.png": "/portfolio-app/static/media/brick-that.aadddcae92dc85f950b7.png",
+    "static/media/work-dayscreen.png": "/portfolio-app/static/media/work-dayscreen.2b835573f1cc2d478e3f.png",
+    "static/media/calorie-tracker.png": "/portfolio-app/static/media/calorie-tracker.26c4fa9505cf16beb88e.png",
+    "static/media/logo.png": "/portfolio-app/static/media/logo.101d339f213e0ed0a972.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.5d32ff85.css.map": "/portfolio-app/static/css/main.5d32ff85.css.map",
+    "main.e1944d63.js.map": "/portfolio-app/static/js/main.e1944d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d32ff85.css",
+    "static/js/main.e1944d63.js"
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d32ff85.css",
-    "main.js": "/static/js/main.8116b185.js",
-    "static/media/davepic.jpeg": "/static/media/davepic.1a3eb317a3f864f4afde.jpeg",
-    "static/media/converse.png": "/static/media/converse.7c1c29a6b42f46932276.png",
-    "static/media/brick-that.png": "/static/media/brick-that.aadddcae92dc85f950b7.png",
-    "static/media/work-dayscreen.png": "/static/media/work-dayscreen.2b835573f1cc2d478e3f.png",
-    "static/media/calorie-tracker.png": "/static/media/calorie-tracker.26c4fa9505cf16beb88e.png",
-    "static/media/logo.png": "/static/media/logo.101d339f213e0ed0a972.png",
-    "index.html": "/index.html",
-    "main.5d32ff85.css.map": "/static/css/main.5d32ff85.css.map",
-    "main.8116b185.js.map": "/static/js/main.8116b185.js.map"
+    "main.css": "/react-portfolio/static/css/main.5d32ff85.css",
+    "main.js": "/react-portfolio/static/js/main.aca157b3.js",
+    "static/media/davepic.jpeg": "/react-portfolio/static/media/davepic.1a3eb317a3f864f4afde.jpeg",
+    "static/media/converse.png": "/react-portfolio/static/media/converse.7c1c29a6b42f46932276.png",
+    "static/media/brick-that.png": "/react-portfolio/static/media/brick-that.aadddcae92dc85f950b7.png",
+    "static/media/work-dayscreen.png": "/react-portfolio/static/media/work-dayscreen.2b835573f1cc2d478e3f.png",
+    "static/media/calorie-tracker.png": "/react-portfolio/static/media/calorie-tracker.26c4fa9505cf16beb88e.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.101d339f213e0ed0a972.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5d32ff85.css.map": "/react-portfolio/static/css/main.5d32ff85.css.map",
+    "main.aca157b3.js.map": "/react-portfolio/static/js/main.aca157b3.js.map"
   },
   "entrypoints": [
     "static/css/main.5d32ff85.css",
-    "static/js/main.8116b185.js"
+    "static/js/main.aca157b3.js"
   ]
 }
